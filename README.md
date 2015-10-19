@@ -15,5 +15,5 @@ src/android/res/drawable-xxhdpi/secondary_icon.png
 You need a push notification plugin that uses:
 ```
 new NotificationCompat.Builder(context)
-        .setSmallIcon(context.getResources().getIdentifier("secondary-icon", "drawable", context.getPackageName()))
+        .setSmallIcon(context.getResources().getIdentifier("secondary_icon", "drawable", context.getPackageName()))
 ```
