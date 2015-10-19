@@ -6,10 +6,10 @@ Phonegap Build doesn't let you bring in resources into the /res directory making
 ## IMPORTANT
 Because plugins can not reference files in your project inside the plugin.xml, please fork this plugin for your own use and change out the resources in
 ```
-src/android/res/drawable-hdpi/secondary-icon.png
-src/android/res/drawable-mdpi/secondary-icon.png
-src/android/res/drawable-xhdpi/secondary-icon.png
-src/android/res/drawable-xxhdpi/secondary-icon.png
+src/android/res/drawable-hdpi/secondary_icon.png
+src/android/res/drawable-mdpi/secondary_icon.png
+src/android/res/drawable-xhdpi/secondary_icon.png
+src/android/res/drawable-xxhdpi/secondary_icon.png
 ```
 
 You need a push notification plugin that uses:
