@@ -17,10 +17,10 @@
     <!-- android -->
     <platform name="android">
         <!--  drawable src/android/resources -->
-        <resource-file src="src/android/res/drawable-hdpi/secondary-icon.png" target="res/drawable-hdpi/secondary-icon.png" />
-        <resource-file src="src/android/res/drawable-mdpi/secondary-icon.png" target="res/drawable-mdpi/secondary-icon.png" />
-        <resource-file src="src/android/res/drawable-xhdpi/secondary-icon.png" target="res/drawable-xhdpi/secondary-icon.png" />
-        <resource-file src="src/android/res/drawable-xxhdpi/secondary-icon.png" target="res/drawable-xxhdpi/secondary-icon.png" />
+        <resource-file src="src/android/res/drawable-hdpi/secondary_icon.png" target="res/drawable-hdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-mdpi/secondary_icon.png" target="res/drawable-mdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/secondary_icon.png" target="res/drawable-xhdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xxhdpi/secondary_icon.png" target="res/drawable-xxhdpi/secondary_icon.png" />
 
     </platform>
 </plugin>
