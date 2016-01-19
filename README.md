@@ -1,5 +1,7 @@
 # Secondary Icon Plugin for Android Phonegap Build applications
 
+**DEPRECATED - in favor of putting assets under the /locales/android/drawables directory. See http://stackoverflow.com/questions/30802589/how-to-add-native-image-with-phonegap-build/33221780#33221780**
+
 ## DESCRIPTION
 Phonegap Build doesn't let you bring in resources into the /res directory making it impossible for developers to utilize the application-specific R class or assign images a resource id. This causes issues especially for push notifications on Lolipop that require the small icon to be white and transparent.
 
